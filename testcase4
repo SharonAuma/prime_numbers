@@ -1,0 +1,2 @@
+def test_prime_generator_negative_input(self):
+       self.assertEqual(prime_generator(-20),"Error wrong input"
