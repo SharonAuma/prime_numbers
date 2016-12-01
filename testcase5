@@ -1,0 +1,3 @@
+ #Tests correct output for larger input
+   def test_prime_generator_small_input(self):
+       self.assertEqual(prime_generator(20),[2, 3, 5, 7, 11, 13, 17, 19 ])
